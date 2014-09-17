@@ -1,0 +1,16 @@
+syntax: glob
+.settings/org.eclipse.jdt.core.prefs
+.project
+.classpath
+bin/TestMain.class
+bin/TaskList.class
+bin/TaskList$Log.class
+bin/Task.class
+bin/Task$Status.class
+bin/Task$Priority.class
+bin/KairosGUI.class
+bin/KairosGUI$1.class
+src/Controller.java.orig
+KairosTasks.xml
+.classpath.orig
+src/KairosGUI.java.orig
